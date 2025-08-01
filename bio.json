@@ -1,0 +1,32 @@
+{
+    "nama" : "Alysia fasma nidai",
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" : "2008-08-22",
+    "alamat" : {
+        "jalan" : "jl. Sadang perumahan linggahara RT 04 RW 04",
+        "desa" : "margahayu tengah",
+        "kecamatan" : "Margahayu"
+    },
+    "hobi" : [
+        "menggambar",
+        "animasi",
+        "cosplay",
+        "dance",
+        "nyanyi"
+    ],
+    "list_husbu" :[
+        "inuyasha",
+        "tsukishima kei",
+        "bakugo",
+        "sylus",
+        "jinu",
+        "harris",
+        "zoro",
+        "alhaitam"
+    ],
+    "kontak" :{
+        "email" : "alysiasiswamarhas@gmail.com",
+        "instagram" : "a1yfnd_5",
+        "whatsapp" : "087812849475"
+    }
+}
