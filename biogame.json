@@ -1,0 +1,82 @@
+[
+   {
+    "nama" : "Zetian",
+    "role" : "mage",
+    "win_rate":49.30,
+    "pick_rate" :1.22,
+    "skill" : {
+        "celistial_armament" : "shield,cc",
+        "phoenix_strike" : "AOE,speed up",
+        "phoenix_descent" : "slow,debuff",
+        "furry_of_phoenix" : "CC,AOE"
+    },
+    "couter_hero" :[
+        "Balmon",
+        "zhongli"
+    ]
+   },
+   {
+    "nama" : "Angela",
+    "role" : "Support",
+    "win_rate":50.99,
+    "pick_rate" :1.89,
+    "skill" : {
+        "smart_heart" : "speed",
+        "love_wave" : "AOE,heal",
+        "puppet_on_a_string" : "slow,CC",
+        "Heartguard" : "attach,shield"
+    },
+    "couter_hero" :[
+        "Uranus",
+        "belerick"
+    ]
+   },
+   {
+    "nama" : "Melissa",
+    "role" : "marksman",
+    "win_rate":52.84,
+    "pick_rate" :0.63,
+    "skill" : {
+        "doll_buster" : "buff",
+        "falling" : "buff,mobility",
+        "eyes_on_you" : "debuff,AOE",
+        "go_away" : "summon,buff"
+    },
+    "couter_hero" :[
+        "Sun",
+        "zhongli"
+    ]
+   },
+     {
+    "nama" : "Luo yie",
+    "role" : "mage",
+    "win_rate":49.04,
+    "pick_rate" :0.43,
+    "skill" : {
+        "duality" : "bust,cc",
+        "dispersion" : "AOE",
+        "rotation" : "slow,AOE",
+        "diversion" : "teleport"
+    },
+    "couter_hero" :[
+        "Audora",
+        "Gord"
+    ]
+   },
+     {
+    "nama" : "Kagura",
+    "role" : "mage",
+    "win_rate":51.68,
+    "pick_rate" :0.54,
+    "skill" : {
+        "yin_yang_gathering" : "shield,CC",
+        "seimei_umbrella_open" : "damage,slow",
+        "rasho_umbrella_flee" : "remove CC,mobility",
+        "yin_yang_overtoon" : "CC,bust"
+    },
+    "couter_hero" :[
+        "Layla",
+        "Audora"
+    ]
+   }  
+]
